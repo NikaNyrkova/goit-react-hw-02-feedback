@@ -1,0 +1,17 @@
+.feedback_options {
+  display: flex;
+  margin: -10px;
+}
+
+.feedback_button {
+  margin: 10px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: beige;
+  border-radius: 5px;
+  border-color: beige;
+}
+
+.feedback_button:hover {
+  background-color: bisque;
+}
